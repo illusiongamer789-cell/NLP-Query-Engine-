@@ -1,0 +1,5 @@
+{
+  "name": "NLP Query Engine for Employee Data",
+  "description": "A web interface for a natural language query system for employee data. This system dynamically adapts to database schemas and handles both structured data and unstructured documents.",
+  "requestFramePermissions": []
+}
